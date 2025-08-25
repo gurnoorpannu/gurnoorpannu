@@ -1,4 +1,4 @@
-# � Hi 👋, I'm Gurnoor
+#  Hi 👋, I'm Gurnoor
 **A passionate App Developer || ML Engineer**
 
 ## 🌐 Socials:
