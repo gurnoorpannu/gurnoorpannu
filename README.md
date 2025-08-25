@@ -1,5 +1,10 @@
 #  Hi 👋, I'm Gurnoor
-**A passionate App Developer || ML Engineer**
+**Android Developer | Kotlin & Jetpack Compose | Exploring AI/ML**
+
+🎓 Passionate Android Developer | Kotlin & Jetpack Compose Enthusiast
+🚀 Exploring AI/ML & Generative AI for real-world apps
+🛠️ Love building scalable apps with clean architecture & smooth UI
+🌱 Open to collaborations on mobile + AI projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurnoor-singh-pannu-5a37a528a) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gurnxxrpannu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurnxxrpannu@gmail.com) 
