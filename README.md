@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Gurnoor
+#  Hi , I'm Gurnoor
 **Android Developer | Kotlin & Jetpack Compose | Exploring AI/ML**
 
 - 🎓 Passionate Android Developer | Kotlin & Jetpack Compose Enthusiast
