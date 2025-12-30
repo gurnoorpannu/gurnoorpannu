@@ -8,7 +8,7 @@
 
 ---
 
-## 🏆 Badges
+##  Badges
 
 <p align="center">
   <a href="https://holopin.io/@gurnoorpannu">
