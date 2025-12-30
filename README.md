@@ -8,6 +8,13 @@
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurnoor-singh-pannu-5a37a528a)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gurnxxrpannu)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurnxxrpannu@gmail.com)
+
+---
+
 ##  Badges
 
 <p align="center">
@@ -18,14 +25,8 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gurnoor-singh-pannu-5a37a528a)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@gurnxxrpannu)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gurnxxrpannu@gmail.com)
 
----
-
-# 💻 Tech Stack
+#  Tech Stack
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
@@ -62,7 +63,7 @@
 ---
 
 
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gurnoorpannu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gurnoorpannu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gurnoorpannu&theme=dark&hide_border=false&layout=compact)
