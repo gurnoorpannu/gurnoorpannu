@@ -11,7 +11,7 @@
 ##  Badges
 
 <p align="center">
-  <a href="https://holopin.io/@gurnoorpannu">
+  <a href="https://holopin.me/@gurnoorpannu">
     <img src="https://holopin.io/api/user/board?user=gurnoorpannu" />
   </a>
 </p>
