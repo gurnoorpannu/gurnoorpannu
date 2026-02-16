@@ -1,5 +1,5 @@
 #  Hi , I'm Gurnoor
-**Android Developer | Kotlin & Jetpack Compose | Exploring AI/ML**
+**Android & Backend Developer | Exploring AI/ML**
 
 -  Passionate Android Developer | Kotlin & Jetpack Compose Enthusiast
 -  Exploring AI/ML & Generative AI for real-world apps
