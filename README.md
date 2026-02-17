@@ -1,10 +1,10 @@
 #  Hi , I'm Gurnoor
 **Android & Backend Developer | Exploring AI/ML**
 
--  Passionate Android Developer | Kotlin & Jetpack Compose Enthusiast
--  Exploring AI/ML & Generative AI for real-world apps
--  Love building scalable apps with clean architecture & smooth UI
--  Open to collaborations on mobile + AI projects
+-  Android Developer specializing in Kotlin and Jetpack Compose.
+-  Backend Architect building scalable APIs with Express.js and MongoDB.
+-  GenAI Enthusiast integrating LLMs and Transformers into real-world apps
+-  Open Source Contributor passionate about community-driven software.
 
 ---
 
